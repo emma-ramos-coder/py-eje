@@ -4,8 +4,8 @@
 <p align="center">El sistema desarrollado lleva las iniciales de los integrantes. El sistema registra ventas, genera factura, además de permitir operaciones CRUD de las tablas maestras </p>
 <p>Cuenta administrador, correo: admin@gmail.com contraseña: 123456789 </p>
 
-<img src="public/img/sistema.PNG">
-<img src="public/img/Factura.PNG">
+<img src="public/assets/img/sistema.PNG">
+<img src="public/assets/img/Factura.PNG">
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
